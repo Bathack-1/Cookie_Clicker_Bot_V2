@@ -1,11 +1,10 @@
-import time
-import keyboard
-import pyautogui
-import json
 from Bot.Kalibrering import kalibrerings_verktøy
+from Bot.spiller import Spiller
 
 def main():
     kalibrerings_verktøy().kalibrer()
+    Spiller().AI()
+
     """
     while not keyboard.is_pressed("å"):
         while keyboard.is_pressed("q"):
