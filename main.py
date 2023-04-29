@@ -1,15 +1,9 @@
-from Bot.Kalibrering import kalibrerings_verktøy
+import time
 from Bot.spiller import Spiller
 
 def main():
-    kalibrerings_verktøy().kalibrer()
+    time.sleep(4)
     Spiller().AI()
-
-    """
-    while not keyboard.is_pressed("å"):
-        while keyboard.is_pressed("q"):
-            pyautogui.click(kjeks_posisjon)
-        time.sleep(1/60)"""
 
 
 
