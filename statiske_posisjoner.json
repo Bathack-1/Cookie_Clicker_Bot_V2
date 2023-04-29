@@ -1,21 +1,21 @@
 {
+    "nyheter": {
+        "x_posisjon": 889,
+        "y_posisjon": 22
+    },
     "oppgradere": {
-        "x_posisjon": 2273,
-        "y_posisjon": 59,
-        "farge": 3,
+        "x_posisjon": 1633,
+        "y_posisjon": 165,
+        "farge": 2,
         "kj\u00f8p_alle_knapp": {
-            "x_posisjon": 2243,
-            "y_posisjon": 29,
+            "x_posisjon": 1603,
+            "y_posisjon": 135,
             "bredde": 301,
             "h\u00f8yde": 20
         }
     },
-    "nyheter": {
-        "x_posisjon": 1509,
-        "y_posisjon": 21
-    },
     "hoved_kjeks": {
-        "x_posisjon": 379,
-        "y_posisjon": 568
+        "x_posisjon": 283,
+        "y_posisjon": 424
     }
 }
